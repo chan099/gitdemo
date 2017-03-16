@@ -1,3 +1,5 @@
+rightnow it is modified by using gui only
+
 <<<<<<< HEAD
 commited by srikanth
 =======
